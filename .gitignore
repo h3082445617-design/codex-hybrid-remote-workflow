@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+auth.json
+config.toml
+admin-api-token
+*api-key*
+*secret*
+*.log
+state/
+backups/
+.private/
